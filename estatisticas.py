@@ -15,7 +15,7 @@ def estatisticas():
         print(f"Média de tentativas na dificuldade {dificuldade}: {media}")
 
 
-    arquivo = os.path.join("projeto", "ranking.json")
+    arquivo = os.path.join(os.path.dirname(__file__), "ranking.json")
 
     if not os.path.exists(arquivo):
         with open(arquivo, "w", encoding="utf-8") as f:

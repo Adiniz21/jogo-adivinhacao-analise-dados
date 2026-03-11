@@ -15,7 +15,7 @@ def ranking():
         for indice, jogador in enumerate(filtrado[:10], start=1):
             print(f"{indice}° - {jogador['nome']} - {jogador['tentativas']} tentativas")
 
-    arquivo = os.path.join("projeto", "ranking.json")
+    arquivo = os.path.join(os.path.dirname(__file__), "ranking.json")
 
     if not os.path.exists(arquivo):
         with open(arquivo, "w", encoding="utf-8") as f:

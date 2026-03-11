@@ -48,7 +48,7 @@ def jogar():
                         data_formatada = data_atual.strftime("%d/%m/%y %H:%M:%S")
                         if numero_sorteado == numero_escolido:
                             print(f"Parabéns você acertou {nome_usuario}, você acertou o número sorteado que foi, {numero_sorteado} com {contador} tentativas") 
-                            arquivo = os.path.join("projeto", "ranking.json")
+                            arquivo = os.path.join(os.path.dirname(__file__), "ranking.json")
 
                             if not os.path.exists(arquivo):
                                 with open(arquivo, "w", encoding="utf-8") as f:
@@ -90,6 +90,7 @@ def jogar():
                 limpar_tela()
                 print("Você escolheu a opção Médio")
                 numero_sorteado = random.randint(1,100)
+                
                 while True:
                     nome_usuario = input("Para iniciar insira o seu nome por favor: ")
 
@@ -108,7 +109,7 @@ def jogar():
                         data_formatada = data_atual.strftime("%d/%m/%y %H:%M:%S")
                         if numero_sorteado == numero_escolido:
                             print(f"Parabéns você acertou {nome_usuario}, você acertou o número sorteado que foi, {numero_sorteado} com {contador} tentativas") 
-                            arquivo = os.path.join("projeto", "ranking.json")
+                            arquivo = os.path.join(os.path.dirname(__file__), "ranking.json")
 
                             if not os.path.exists(arquivo):
                                 with open(arquivo, "w", encoding="utf-8") as f:
@@ -168,7 +169,7 @@ def jogar():
                         data_formatada = data_atual.strftime("%d/%m/%y %H:%M:%S")
                         if numero_sorteado == numero_escolido:
                             print(f"Parabéns você acertou {nome_usuario}, você acertou o número sorteado que foi, {numero_sorteado} com {contador} tentativas") 
-                            arquivo = os.path.join("projeto", "ranking.json")
+                            arquivo = os.path.join(os.path.dirname(__file__), "ranking.json")
 
                             if not os.path.exists(arquivo):
                                 with open(arquivo, "w", encoding="utf-8") as f:

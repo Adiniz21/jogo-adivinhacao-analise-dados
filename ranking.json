@@ -173,5 +173,19 @@
         "numero_sorteado": 18,
         "dificuldade": "Médio",
         "data": "10/03/26 23:27:58"
+    },
+    {
+        "nome": "16",
+        "tentativas": 1,
+        "numero_sorteado": 16,
+        "dificuldade": "Fácil",
+        "data": "11/03/26 12:02:56"
+    },
+    {
+        "nome": "25",
+        "tentativas": 5,
+        "numero_sorteado": 42,
+        "dificuldade": "Fácil",
+        "data": "11/03/26 12:04:40"
     }
 ]
