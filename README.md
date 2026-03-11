@@ -134,9 +134,7 @@ O dashboard permite visualizar:
 
 ### Exemplo de Dashboard
 
-```text
-/images/dashboard.png
-```
+![Dashboard](images/dashboard.png)
 
 ## 🗂 Estrutura do Projeto
 
