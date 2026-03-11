@@ -1,0 +1,177 @@
+[
+    {
+        "nome": "Artur",
+        "tentativas": 1,
+        "numero_sorteado": 23,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 13:30:36"
+    },
+    {
+        "nome": "Maria",
+        "tentativas": 4,
+        "numero_sorteado": 31,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 13:40:12"
+    },
+    {
+        "nome": "Carlos",
+        "tentativas": 3,
+        "numero_sorteado": 17,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 13:52:03"
+    },
+    {
+        "nome": "Joana",
+        "tentativas": 5,
+        "numero_sorteado": 11,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:01:22"
+    },
+    {
+        "nome": "Pedro",
+        "tentativas": 2,
+        "numero_sorteado": 42,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:05:18"
+    },
+    {
+        "nome": "Lucas",
+        "tentativas": 6,
+        "numero_sorteado": 8,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:09:10"
+    },
+    {
+        "nome": "Fernanda",
+        "tentativas": 7,
+        "numero_sorteado": 25,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:11:40"
+    },
+    {
+        "nome": "Rafael",
+        "tentativas": 3,
+        "numero_sorteado": 19,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:15:02"
+    },
+    {
+        "nome": "Juliana",
+        "tentativas": 8,
+        "numero_sorteado": 47,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:18:27"
+    },
+    {
+        "nome": "Gustavo",
+        "tentativas": 4,
+        "numero_sorteado": 33,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:20:31"
+    },
+    {
+        "nome": "Beatriz",
+        "tentativas": 5,
+        "numero_sorteado": 12,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:23:54"
+    },
+    {
+        "nome": "Thiago",
+        "tentativas": 9,
+        "numero_sorteado": 28,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 14:26:11"
+    },
+    {
+        "nome": "Renato",
+        "tentativas": 6,
+        "numero_sorteado": 72,
+        "dificuldade": "Médio",
+        "data": "10/03/26 15:02:10"
+    },
+    {
+        "nome": "Larissa",
+        "tentativas": 8,
+        "numero_sorteado": 64,
+        "dificuldade": "Médio",
+        "data": "10/03/26 15:05:44"
+    },
+    {
+        "nome": "Paulo",
+        "tentativas": 5,
+        "numero_sorteado": 91,
+        "dificuldade": "Médio",
+        "data": "10/03/26 15:07:21"
+    },
+    {
+        "nome": "Vanessa",
+        "tentativas": 7,
+        "numero_sorteado": 37,
+        "dificuldade": "Médio",
+        "data": "10/03/26 15:10:02"
+    },
+    {
+        "nome": "Daniel",
+        "tentativas": 4,
+        "numero_sorteado": 58,
+        "dificuldade": "Médio",
+        "data": "10/03/26 15:12:36"
+    },
+    {
+        "nome": "Ricardo",
+        "tentativas": 12,
+        "numero_sorteado": 421,
+        "dificuldade": "Dificil",
+        "data": "10/03/26 15:30:11"
+    },
+    {
+        "nome": "Camila",
+        "tentativas": 10,
+        "numero_sorteado": 377,
+        "dificuldade": "Dificil",
+        "data": "10/03/26 15:33:45"
+    },
+    {
+        "nome": "Felipe",
+        "tentativas": 14,
+        "numero_sorteado": 298,
+        "dificuldade": "Dificil",
+        "data": "10/03/26 15:37:29"
+    },
+    {
+        "nome": "Patricia",
+        "tentativas": 11,
+        "numero_sorteado": 456,
+        "dificuldade": "Dificil",
+        "data": "10/03/26 15:40:12"
+    },
+    {
+        "nome": "Bruno",
+        "tentativas": 9,
+        "numero_sorteado": 312,
+        "dificuldade": "Dificil",
+        "data": "10/03/26 15:43:58"
+    },
+    {
+        "nome": "Artur",
+        "tentativas": 3,
+        "numero_sorteado": 11,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 15:19:58"
+    },
+    {
+        "nome": "Larissa",
+        "tentativas": 5,
+        "numero_sorteado": 30,
+        "dificuldade": "Fácil",
+        "data": "10/03/26 16:12:48"
+    },
+    {
+        "nome": "Paulo Andrade",
+        "tentativas": 12,
+        "numero_sorteado": 18,
+        "dificuldade": "Médio",
+        "data": "10/03/26 23:27:58"
+    }
+]
